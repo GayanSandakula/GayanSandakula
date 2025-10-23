@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gayan Sandakula</h1>
 <h3 align="center">Software Engineering undergraduate student at SLIIT</h3>
 
+
+![Snake animation](https://raw.githubusercontent.com/ThisaraS97/ThisaraS97/output/github-contribution-grid-snake.svg)
+
 - 🌱 I’m currently learning **UI/UX design, Web design, Software Development, and App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GayanSandakula?tab=repositories](https://github.com/GayanSandakula?tab=repositories)
